@@ -18,7 +18,7 @@ public class Zoo {
         Gorilla g = new Gorilla();
         System.out.println(g.getWeight());
 
-        //hi
+        
     }
 
     public void method1(){
